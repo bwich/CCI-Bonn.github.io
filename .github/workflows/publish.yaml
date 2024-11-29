@@ -43,8 +43,8 @@ jobs:
       # Step 4: Run Custom Build Script
       - name: Run Build Script
         run: |
-          chmod +x ./scripts/view-starter-dev.sh
-          ./scripts/view-starter-dev.sh "academic"
+          chmod +x ./scripts/build-prod.sh
+          ./scripts/build-prod.sh "academic"
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
