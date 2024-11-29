@@ -19,7 +19,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Germany
+  - name: Division of Neuroradiology, Universitätsklinikum Bonn
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,16 +45,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:tanuja.jayas@ukbonn.de'
+  - icon: linkedin
     icon_pack: fab
-    link: https://x.com/bundesstadtbonn?lang=en
+    link: https://in.linkedin.com/in/tanuja-jayas-91a9a9184
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/CCI-Bonn
+    link: https://github.com/tanuja-15
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
