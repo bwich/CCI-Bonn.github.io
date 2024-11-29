@@ -32,9 +32,6 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: University of Bonn
-      year: 2027
     - course: M.Tech, Biomedical Engineering
       institution: Indian Institute of Technology, Delhi, India
       year: 2022
@@ -70,4 +67,4 @@ user_groups:
   - Research team members
 ---
 
-Hello, Bonn
+I am a PhD candidate in the Department of Neuroradiology and the Division of Computational Radiology and Clinical AI at the Universitätsklinikum Bonn. I have done my M.Tech from the Indian Institute of Technology, Delhi, and B.E from Gujarat Technological University in Biomedical Engineering. After that, I was a Researcher in TCS Research and Innovation for 2 years where I worked on advancing EEG data analysis. My research interests lie in innovating medical imaging techniques and neurodegenerative diseases. I also enjoy exploring new dance forms and places.
