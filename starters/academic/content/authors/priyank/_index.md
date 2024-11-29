@@ -23,38 +23,35 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Live longer tha
+bio: PhD Candidate at Universitätsklinikum Bonn 
 
 interests:
-  - Mozart
-  - Haribo
-  - CCI-Bonn
+  - Computer Vision
+  - Machine Learning
+  - Medical Computing
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: University of Bonn
-      year: 2010
-    - course: MEng in Informatics
-      institution: University of Bonn
-      year: 2001
-    - course: BSc in Philosophy
-      institution: University of Bonn
-      year: 1875
-
+    - course: MSc Informatics
+      institution: Technical University of Munich
+      year: 2023
+    - course: B.Tech IT
+      institution: Indian Institute of Information Technology Allahabad
+      year: 2017
+    
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:priyank.upadhya@ukbonn.de'
+  - icon: linkedin
     icon_pack: fab
-    link: https://x.com/bundesstadtbonn?lang=en
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: www.linkedin.com/in/priyank-upadhya
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/CCI-Bonn
+    link: https://github.com/priyankupadhya17
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +67,4 @@ user_groups:
   - Research team members
 ---
 
-Hello, Bonn
+I am a PhD candidate at Universitätsklinikum Bonn, working within the Department of Neuroradiology and the Division of Computational Radiology and Clinical AI. I hold a Master’s degree from the Technical University of Munich, with main focus on machine learning, and a Bachelor’s degree in Information Technology from Indian Institute of Information Technology Allahabad.
