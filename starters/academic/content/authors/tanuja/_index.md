@@ -51,7 +51,7 @@ social:
     link: https://in.linkedin.com/in/tanuja-jayas-91a9a9184
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=W4ogS3cAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/tanuja-15
