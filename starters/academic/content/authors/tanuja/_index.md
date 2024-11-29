@@ -26,21 +26,21 @@ organizations:
 bio: Live longer tha
 
 interests:
-  - Mozart
-  - Haribo
-  - CCI-Bonn
+  - Computer Vision
+  - Medical Imaging and Signal processing
+  - AI in healthcare
 
 education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: University of Bonn
-      year: 2010
-    - course: MEng in Informatics
-      institution: University of Bonn
-      year: 2001
-    - course: BSc in Philosophy
-      institution: University of Bonn
-      year: 1875
+      year: 2027
+    - course: M.Tech, Biomedical Engineering
+      institution: Indian Institute of Technology, Delhi, India
+      year: 2022
+    - course: B.E, Biomedical Engineering 
+      institution: L.D College of Engineering, Ahmedabad, India
+      year: 2020
 
 social:
   - icon: envelope
