@@ -47,6 +47,9 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Manuel_Debic
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=VEMEx00AAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/mdebic
