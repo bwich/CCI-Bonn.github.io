@@ -83,4 +83,4 @@ user_groups:
   - Research team members
 ---
 
-Hello, Bonn
+As a medical doctor with a strong technical background, I am committed to developing innovative medical software that has a meaningful impact.
