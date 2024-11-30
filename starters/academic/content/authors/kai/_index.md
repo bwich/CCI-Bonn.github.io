@@ -20,11 +20,13 @@ role: Engineering Lead
 
 # Organizations/Affiliations
 organizations:
-  - name: Germany
-    url: ''
+  - name: University Hospital Bonn
+    url: 'https://ccibonn.ai/'
+  - name: Thoraxklinik Heidelberg
+    url: 'https://www.thoraxklinik-heidelberg.de/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Live longer tha
+bio: "As a medical doctor with a strong technical background, I am committed to developing innovative medical software that has a meaningful impact."
 
 interests:
   - Mozart
@@ -33,29 +35,36 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: University of Bonn
+    - course: Subspecialty designation in Neuroradiology
+      institution: University of Heidelberg
+      year: 2018
+    - course: Specialist in General Radiology
+      institution: University of Heidelberg
+      year: 2016
+    - course: Doctor of Medicine specializing in Medical Informatics
+      institution: University of Mainz
       year: 2010
-    - course: MEng in Informatics
-      institution: University of Bonn
-      year: 2001
-    - course: BSc in Philosophy
-      institution: University of Bonn
-      year: 1875
+    - course: Licence to practise medicine
+      institution: University of Mainz
+      year: 2009
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:kai@ccibonn.ai'
+  - icon: linkedin
     icon_pack: fab
-    link: https://x.com/bundesstadtbonn?lang=en
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.linkedin.com/in/kai-schlamp-a42370267/
   - icon: github
     icon_pack: fab
-    link: https://github.com/CCI-Bonn
+    link: https://github.com/medihack
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Kai-Schlamp
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=h2JFpD4AAAAJ&hl=en
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +72,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'kai@ccibonn.ai'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
