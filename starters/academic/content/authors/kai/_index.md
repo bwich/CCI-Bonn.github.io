@@ -29,9 +29,12 @@ organizations:
 bio: "As a medical doctor with a strong technical background, I am committed to developing innovative medical software that has a meaningful impact."
 
 interests:
-  - Mozart
-  - Haribo
-  - CCI-Bonn
+  - Exploring cutting-edge technologies and their real-world applications
+  - Following and analyzing trends in artificial intelligence and machine learning
+  - Designing intuitive and user-friendly web solutions
+  - Understanding the evolving landscape of cryptocurrencies and blockchain technology
+  - Swimming as a way to stay active and relax
+  - Hiking to connect with nature and discover new trails
 
 education:
   courses:
