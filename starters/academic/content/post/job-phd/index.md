@@ -32,10 +32,10 @@ authors:
   - joey
 
 tags:
-  - PhD
+  - job-posting
 
 categories:
-  - PhD
+  - job-posting
 ---
 
 
