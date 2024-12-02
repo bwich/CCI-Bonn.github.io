@@ -42,8 +42,7 @@ categories:
   - job-posting
 ---
 
-
-We, at the newly established division for Computational Radiology & Clinical AI at the University Hospital Bonn / University of Bonn (PI: Philipp Vollmuth – Full Professor of AI in Medical Imaging) are looking for applications for multiple Postdoc/PhD and Master thesis positions at the intersection of AI and Radiology funded by European Research Council. Our research group has consistently contributed to reputed journals and conferences, including The Lancet Oncology, The Lancet Digital Health, Nature Communications and Radiology among others. This is a great opportunity to dive into AI-driven translational research and contribute to significant advancements in the clinical application of Computer Vision or NLP algorithms. 
+We are looking for multiple Postdocs, PhD candidates, and Master's thesis students to join our group at CCIBonn.ai (Division for Computational Radiology & Clinical AI). This is an opportunity to delve into AI-driven translational research funded by European Research Council (ERC) and contribute to significant advancements in the clinical application of foundation models for radiology, encompassing Computer Vision and Natural Language Processing (NLP) algorithms. Our research group has consistently contributed to reputed journals and conferences, including The Lancet Oncology, The Lancet Digital Health, Nature Communications and Radiology among others. This is a great opportunity to dive into AI-driven translational research and contribute to significant advancements in the clinical application of Computer Vision or NLP algorithms. 
 
 ## Your Responsibilities
 
@@ -64,7 +63,7 @@ We, at the newly established division for Computational Radiology & Clinical AI 
 
 - Postdoctoral and PhD researchers: 100% of TVL E-13 with 3 years (For postdoctoral researchers who have already received PhD degrees, TVL E-14 is possible).
 - For Master thesis students contract as a working student (Hiwi) is possible. 
-- Access to large-scale multicentric datasets (>100,000 neuroradiological MR and CT scans, large cohort of text reports etc.) 
+- Access to large-scale multicentric, multimodal (images, reports) datasets 
 - The division has exclusive access to the latest and powerful computing resource (2x NVIDIA DGX H100 cluster). Each group member is provided with powerful personal workstations (with RTX A6000 GPUs, etc.). 
 - Access to the latest medical imaging scanners (multiple of the latest 3T MR scanners, a 0.065T Swoop hyperfine scanner and a 7T MR scanner) 
 - Opportunities to collaborate with other research groups and institutes, such as DKFZ (German Cancer Research Center), DZNE (German research center for Neurodegenerative Diseases), Mathematics Department at the University of Bonn, within EORTC (European Organization for Research and Treatment of Cancer) and within MICCAI BRATS.  
