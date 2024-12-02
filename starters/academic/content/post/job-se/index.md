@@ -67,4 +67,4 @@ We, at the division for Computational Radiology & Clinical AI (CCIBonn.ai) at th
 
 ## Interested? Contact us
 
-- Please send your application to contact@ccibonn.ai including your CV and a short cover letter about yourself (~ 1 page).
+- Please send your application to contact@ccibonn.ai (CC: kai.schlamp@ukbonn.de) including your CV and a short cover letter about yourself (~ 1 page).
