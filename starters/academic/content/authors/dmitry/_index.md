@@ -23,24 +23,27 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Live longer tha
+bio: Senior AI Engineer at Baywa AG
 
 interests:
-  - Mozart
-  - Haribo
-  - CCI-Bonn
+  - AI
+  - Music
+  - Healthcare
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: University of Bonn
-      year: 2010
-    - course: MEng in Informatics
-      institution: University of Bonn
-      year: 2001
-    - course: BSc in Philosophy
-      institution: University of Bonn
-      year: 1875
+    - course: MSc in Computer Science
+      institution: Technical University Munich
+      year: 2025
+    - course: BSc in Computer Science 
+      institution: Ludwig Maximilian University Munich 
+      year: 2022
+    - course: MA in Economics
+      institution: National Research University Higher School of Economics 
+      year: 2011
+    - course: BA in International Relations
+      institution: Moscow State University of International Relations
+      year: 2009
 
 social:
   - icon: envelope
@@ -62,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: fadejeff@gmail.com
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
