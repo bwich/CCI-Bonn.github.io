@@ -25,7 +25,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am passionate about advancing precision diagnostics and medical imaging through innovative applications of artificial intelligence. My focus lies in improving patient care, fostering interdisciplinary collaboration, and translating research into impactful healthcare solutions.
-
 interests:
   - Neuro-oncological imaging
   - Enhancing Radiological Communication with AI
@@ -68,4 +67,4 @@ user_groups:
   - Research team members
 ---
 
-Hello, Bonn
+I am passionate about advancing precision diagnostics and medical imaging through innovative applications of artificial intelligence. My focus lies in improving patient care, fostering interdisciplinary collaboration, and translating research into impactful healthcare solutions.
