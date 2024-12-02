@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Clinial Research Lead
+role: Clinical Research Lead
 
 # Organizations/Affiliations
 organizations:
