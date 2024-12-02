@@ -24,7 +24,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Live longer tha
+bio: I am passionate about advancing precision diagnostics and medical imaging through innovative applications of artificial intelligence. My focus lies in improving patient care, fostering interdisciplinary collaboration, and translating research into impactful healthcare solutions.
 
 interests:
   - Mozart
