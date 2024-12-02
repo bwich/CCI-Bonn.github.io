@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Clinical Research Lead
+role: Clinical Research Lead - CCI Bonn | MIC @ DKFZ Heidelberg
 
 # Organizations/Affiliations
 organizations:
@@ -24,38 +24,39 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Live longer tha
+bio: I was born in the italian alps and completed my medical training in Milan. I then moved to Germany to begin my residency, where I also joined our early efforts in the development of artificial intelligence applications in radiology. My research focus lies on the development of AI solutions that can simplify and optimize the radiological workflow.
 
 interests:
-  - Mozart
-  - Haribo
-  - CCI-Bonn
+  - Clinically meaningful AI
+  - Stroke & Vascular imaging
+  - Computer Vision
+  - Good restaurants
+  - Skiing
+  - Music on Vinyl
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: University of Bonn
-      year: 2010
-    - course: MEng in Informatics
-      institution: University of Bonn
-      year: 2001
-    - course: BSc in Philosophy
-      institution: University of Bonn
-      year: 1875
+    - course: Doctor of Medicine (Dr. med.)
+      institution: Heidelberg University (Heidelberg, DE)
+      year: 2021
+    - course: Medical License (DE)
+      institution: German Medical Board
+      year: 2018
+    - course: Medical Degree
+      institution: Universitá Vita-Salute San Raffaele (Milan, IT)
+      year: 2017
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:gianluca.brugnara@ukbonn.de'
+  - icon: linkedin
     icon_pack: fab
-    link: https://x.com/bundesstadtbonn?lang=en
+    link: https://www.linkedin.com/in/gianluca-brugnara-b5434752/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/CCI-Bonn
+    link: https://scholar.google.com/citations?user=HSDXeBgAAAAJ&hl=en
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,4 +72,4 @@ user_groups:
   - Research team members
 ---
 
-Hello, Bonn
+I was born in the italian alps and completed my medical training in Milan. I then moved to Germany to begin my residency, where I also joined our early efforts in the development of artificial intelligence applications in radiology. My research focus lies on the development of AI solutions that can simplify and optimize the radiological workflow.
