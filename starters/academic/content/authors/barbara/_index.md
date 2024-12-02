@@ -24,35 +24,31 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Live longer tha
+bio: MD Radiologist, Medical Physicist and Clinical Scientist
 
 interests:
-  - Mozart
-  - Haribo
-  - CCI-Bonn
+  - Aritifical Intelligence
+  - Medical Imaging
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: University of Bonn
-      year: 2010
-    - course: MEng in Informatics
-      institution: University of Bonn
-      year: 2001
-    - course: BSc in Philosophy
-      institution: University of Bonn
-      year: 1875
+    - course: MD in Medicine
+      institution: Faculty of Medicine, University of Heidelberg
+      year: 2018
+    - course: MSc in Medical Physics
+      institution: University of Heidelberg
+      year: 2017
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:barbara.Wichtmann@ukbonn.de'
   - icon: twitter
     icon_pack: fab
     link: https://x.com/bundesstadtbonn?lang=en
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Tc9Q8fMAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/CCI-Bonn
@@ -71,4 +67,4 @@ user_groups:
   - Research team members
 ---
 
-Hello, Bonn
+I aspire to work at the forefront of oncologic MRI, and as a radiologist and medical physicist at the research-clinical interface to advocate for an expedited translation of pivotal innovations such as Deep Learning into the clinic. I am committed to a diverse and inclusive radiological society worldwide that takes full advantage of its interdisciplinary talent pool.
