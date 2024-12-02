@@ -26,6 +26,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am dedicated to advancing precision diagnostics and medical imaging through innovative applications of artificial intelligence. My focus lies in improving patient care, fostering interdisciplinary collaboration, and translating research into impactful healthcare solutions.
 interests:
+  - New AI technologies
   - Neuro-oncological imaging
   - Enhancing Radiological Communication with AI
     
