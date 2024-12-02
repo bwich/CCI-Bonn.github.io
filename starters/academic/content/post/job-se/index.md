@@ -3,7 +3,7 @@ title: Software Engineer at the interface to medical AI research
 subtitle:
 
 # Summary for listings and search engines
-summary: "Exciting and fully funded Software Engineer positions to support our research projects in the newly established division for Computational Radiology & Clinical AI at the University Hospital Bonn / University of Bonn (PI: Philipp Vollmuth – Full Professor for AI in Medical Imaging). If you’re passionate about software engineering in the medical field, check out our job description and contact us via contact@ccibonn.ai with your CV and a short cover letter (~ 1 page) about yourself (not included in your CV)."
+summary: "Exciting and fully funded Software Engineer positions to support our research projects in the division for Computational Radiology & Clinical AI (CCIBonn.ai) at the University Hospital Bonn / University of Bonn (PI: Philipp Vollmuth – Full Professor for AI in Medical Imaging). If you’re passionate about software engineering in the medical field, check out our job description and contact us via contact@ccibonn.ai with your CV and a short cover letter (~ 1 page) about yourself (not included in your CV)."
 
 # Link this post with a project
 projects: []
@@ -39,7 +39,7 @@ categories:
 ---
 
 
-We, at the newly established division for Computational Radiology & Clinical AI at the University Hospital Bonn / University of Bonn (PI: Philipp Vollmuth – Full Professor of AI in Medical Imaging), are seeking applications for Software Engineer positions to support our software platform team. Our research group has consistently contributed to leading journals and conferences, and we are developing various tools to support our research projects. You can check out our work on our GitHub organizations ([OpenRadX](https://github.com/openradx) and [CCIBonn](https://github.com/CCI-Bonn)). This opportunity offers a unique chance to work at the forefront of medical AI and contribute to substantial advancement in the medical field. You will be part of a dynamic team that bridges the gap between cutting-edge AI research and clinical application, ensuring that our software tools are robust, efficient, and user-friendly.
+We, at the division for Computational Radiology & Clinical AI (CCIBonn.ai) at the University Hospital Bonn / University of Bonn (PI: Philipp Vollmuth – Full Professor of AI in Medical Imaging), are seeking applications for Software Engineer positions to support our software platform team. Our research group has consistently contributed to leading journals and conferences, and we are developing various tools to support our research projects. You can check out our work on our GitHub organizations ([OpenRadX](https://github.com/openradx) and [CCIBonn](https://github.com/CCI-Bonn)). This opportunity offers a unique chance to work at the forefront of medical AI and contribute to substantial advancement in the medical field. You will be part of a dynamic team that bridges the gap between cutting-edge AI research and clinical application, ensuring that our software tools are robust, efficient, and user-friendly.
 
 ## Your Responsibilities
 
@@ -60,8 +60,9 @@ We, at the newly established division for Computational Radiology & Clinical AI 
 ## Your Benefits
 
 -	100% of TVL E-13 or E-14 with 3 years (dependent on the qualification).
--	State-of-the-art, high-end hardware equipment (such as Nvidia DGX series).
+-	The division has exclusive access to the latest and powerful computing resource (2x NVIDIA DGX H100 cluster). 
 -	A young dynamic team with a strong drive for innovation.
+-	Opportunities to attend national and international conferences (MICCAI, CVPR,…)
 - Potential for being involved in industry collaborations.
 
 ## Interested? Contact us
