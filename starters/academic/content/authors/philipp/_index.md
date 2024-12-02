@@ -25,11 +25,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Live longer tha
 
-interests:
-  - Mozart
-  - Haribo
-  - CCI-Bonn
-
 education:
   courses:
     - course: PhD in Artificial Intelligence
