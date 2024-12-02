@@ -3,7 +3,11 @@ title: Multiple ⁠Postdoc/PhD and Master thesis positions available for AI-driv
 subtitle: Research Positions
 
 # Summary for listings and search engines
-summary: "We are looking for multiple Postdocs/PhDs and Master thesis students to join our group in the newly established division for Computational Radiology & Clinical AI at the University Hospital Bonn / University of Bonn. This is an opportunity to delve into AI-driven translational research and contribute to significant advancements in the clinical application of Computer Vision or NLP algorithms. If you’re passionate about AI/ML application in the medical field, check out our job description (attach pdf) and reach out to us via contact@ccibonn.ai (cc: aditya@ccibonn.ai) mentioning the role you want to apply for along with your CV and a short cover letter (~ 1 page, about yourself (not included in CV) and your research interest)."
+summary: "
+
+We are looking for multiple Postdocs, PhD candidates, and Master's thesis students to join our group at CCIBonn.ai (Division for Computational Radiology & Clinical AI). This is an opportunity to delve into AI-driven translational research and contribute to significant advancements in the clinical application of foundation models for radiology, encompassing Computer Vision and Natural Language Processing (NLP) algorithms.
+
+If you're passionate about applying AI/ML in the medical field, especially in developing foundation models for radiology through our European Research Council (ERC Consolidator Grant) funded project AI-Next, please check out our job description (attached PDF) and reach out to us at contact@ccibonn.ai (cc: aditya@ccibonn.ai). Mention the role you wish to apply for and include your CV along with a short cover letter (~ 1 page, about yourself (not included in CV) and your research interest)."
 
 # Link this post with a project
 projects: []
