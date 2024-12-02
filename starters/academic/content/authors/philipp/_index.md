@@ -15,13 +15,14 @@ authors:
 superuser: false
 
 # Role/position
-role: "Else-Kröner CS Professor for AI in Medical Imaging at University Bonn; Secondary Affliation: Division for Medical Imaging Computing (MIC), German Cancer Research Center (DKFZ) Heidelberg"
+role: "Else-Kröner CS Professor for AI in Medical Imaging at University Bonn"
 
 # Organizations/Affiliations
 organizations:
-  - name: Germany
-    url: ''
-
+  - name: Division for Compuational Radiology & Clinical AI (CCIBonn.ai), University Hospital Bonn
+    url: 'https://CCIBonn.ai/'
+  - name: Division for Medical Image Computing (MIC), German Cancer Research Center (DKFZ) Heidelberg
+  - name: Center for Medical Data Use and Translation (ZMDT), University of Bonn
 # Short bio (displayed in user profile at end of posts)
 bio: Live longer tha
 
@@ -40,16 +41,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:philipp.vollmuth@ukbonn.de'
+  - icon: linkedin
     icon_pack: fab
-    link: https://x.com/bundesstadtbonn?lang=en
+    link: https://www.linkedin.com/in/philipp-vollmuth/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=z0ENYEQAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/CCI-Bonn
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/openradx
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,4 +69,4 @@ user_groups:
   - Research team members
 ---
 
-Hello, Bonn
+
