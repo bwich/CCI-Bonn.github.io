@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Clinical Research Lead - CCI Bonn, Secondary Affiliation: MIC at DKFZ Heidelberg
+role: Clinical Research Lead - CCI Bonn, Secondary Affiliation:: MIC at DKFZ Heidelberg
 
 # Organizations/Affiliations
 organizations:
