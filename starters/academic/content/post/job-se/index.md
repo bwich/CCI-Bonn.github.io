@@ -3,7 +3,7 @@ title: Software Engineer at the interface to medical AI research
 subtitle:
 
 # Summary for listings and search engines
-summary: "Exciting and fully funded Software Engineer positions to support our research projects in the division for Computational Radiology & Clinical AI (CCIBonn.ai) at the University Hospital Bonn / University of Bonn (PI: Philipp Vollmuth – Full Professor for AI in Medical Imaging). If you’re passionate about software engineering in the medical field, check out our job description and contact us via contact@ccibonn.ai with your CV and a short cover letter (~ 1 page) about yourself (not included in your CV)."
+summary: "Exciting and fully funded Software Engineer positions to support our research projects in the division for Computational Radiology & Clinical AI (CCIBonn.ai) at the University Hospital Bonn / University of Bonn (PI: Philipp Vollmuth – Full Professor for AI in Medical Imaging). If you’re passionate about software engineering in the medical field, check out our job description and contact us via contact@ccibonn.ai (CC: kai.schlamp@ukbonn.de) with your CV and a short cover letter (~ 1 page) about yourself (not included in your CV)."
 
 # Link this post with a project
 projects: []
