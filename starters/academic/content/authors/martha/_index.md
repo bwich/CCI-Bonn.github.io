@@ -46,15 +46,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:martha.foltyn-dumitru@ukbonn.de'
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://x.com/bundesstadtbonn?lang=en
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://de.linkedin.com/in/martha-foltyn-dumitru-368b3333a
+- icon: researchgate
     icon_pack: fab
-    link: https://github.com/CCI-Bonn
+    link: https://www.researchgate.net/profile/Martha-Foltyn-Dumitru
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
