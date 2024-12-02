@@ -23,4 +23,6 @@ Our research includes foundational AI models for radiology, privacy-preserving f
 
 We prioritize open science and share our research through our GitHub organizations github.com/CCI-Bonn and github.com/openradx. Notable repositories include HD-BET and HD-GLIO, which have become widely used tools in medical image processing. Additionally, our team has developed ADIT (Automated DICOM Transfer) and RADIS (Radiology Report Archive and Discovery System), which are powerful tools for facilitating data management and analysis in radiology. ADIT provides a versatile solution for exchanging DICOM data across systems through a user-friendly web interface, while RADIS supports the archiving, querying, and discovery of radiology reports, enabling efficient workflows and large-scale data mining. 
 
+<h3>Funding</h3>
+
 At CCIBonn.ai we are funded by the DFG Priority Program 2177 (Radiomics - Next Generation of Biomedical Imaging), and the Else Kröner Fresenius Foundation among others. 
