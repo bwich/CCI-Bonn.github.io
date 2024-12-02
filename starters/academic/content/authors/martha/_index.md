@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: Board-Certified Radiologist
-      year:2024
+      year: 2024
     - course: M.Sc. in Medical Data Science
       institution: RWTH Aachen University
       year: 2022
