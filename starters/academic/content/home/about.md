@@ -24,7 +24,7 @@ At CCIBonn.ai (Divison for Computational Radiology & Clinical AI), we focus on t
 CCIBonn.ai (Division for Computational Radiology & Clinical AI) is affiliated with the Faculty of Medicine at the University of Bonn, Germany. Philipp holds additional appointments at the Center for Medical Data Use and Translation (ZMDT), University of Bonn, and the Division for Medical Image Computing (MIC) at the German Cancer Research Center (DKFZ) in Heidelberg.
 
 <h3>Funding</h3>
-We have secured >4.5 million EUR in funding and we are currently supported by the European Research Counccil (ERC Consolidator Grant for "AI-Next"), the German Research Foundation (DFG - Priority Program 2177: Radiomics - Next Generation of Biomedical Imaging), BONFOR, and the Else Kröner Fresenius Foundation among others. 
+We have secured >4.5 million EUR in funding and we are currently supported by the European Research Council (ERC Consolidator Grant for "AI-Next"), the German Research Foundation (DFG - Priority Program 2177: Radiomics - Next Generation of Biomedical Imaging), BONFOR, and the Else Kröner Fresenius Foundation among others. 
 
 <h3>Publications</h3>
 With publications in journals such as Lancet Oncology, Nature Communications, and Lancet Digital Health, we are committed to translating computational research into clinically impactful solutions for precision medicine and radiology. Full list of publications is available <a href="https://scholar.google.de/citations?user=z0ENYEQAAAAJ&hl=de">here</a>
