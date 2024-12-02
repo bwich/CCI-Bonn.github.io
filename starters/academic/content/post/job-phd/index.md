@@ -1,5 +1,5 @@
 ---
-title: Multiple ⁠Postdoc/PhD and Master thesis positions available for AI-driven translation research in radiology funded by European Research Council.
+title: Multiple Postdoc, PhD, and Master's Thesis Positions Available for Advancing Foundation Models in Radiology (funded by ERC)
 subtitle: Research Positions
 
 # Summary for listings and search engines
