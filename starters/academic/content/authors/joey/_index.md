@@ -26,21 +26,19 @@ organizations:
 bio: born in Korea, raised in several countries, and now live in Germany
 
 interests:
-  - Spaggehtieis
-  - Wasserturm
-  - Joey
+  - Foundation Model
+  - Federated Learning
+  - Medical Image Computing
+  - Suchirrito & Eierbal
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: University of Mannheim
-      year: 2010
-    - course: MEng in Informatics
-      institution: University of Mannheim
-      year: 2003
-    - course: BSc in Philosophy
-      institution: University of Mannheim
-      year: 1875
+    - course: MSc in Computer Science
+      institution: Technical University Munich (TUM)
+      year: 2023
+    - course: BSc in Computer Science
+      institution: Sungkyunkwan University (SKKU)
+      year: 2019
 
 social:
   - icon: envelope
@@ -70,4 +68,3 @@ user_groups:
   - Research team members
 ---
 
-Hello, Mannheim
