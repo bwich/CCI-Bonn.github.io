@@ -1,5 +1,5 @@
 ---
-title: Software Engineer at the interface to medical AI research
+title: Software Engineer at the Interface of Software Development and Medical AI Research
 subtitle:
 
 # Summary for listings and search engines
