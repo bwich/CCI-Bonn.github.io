@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aditya Rastogi
+title: Aditya Rastogi, PhD
 
 # Full name (for SEO)
 first_name: Aditya
