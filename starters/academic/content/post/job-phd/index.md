@@ -73,4 +73,4 @@ We are looking for multiple Postdocs, PhD candidates, and Master's thesis studen
 
 ## Interested? Contact us
 
-- Please send your application to contact@ccibonn.ai (cc: aditya@ccibonn.ai), mentioning the role you want to apply for along with your CV and a short cover letter (~ 1 page, about yourself (not included in CV) and your research interest).
+- Please send your application to contact@ccibonn.ai (cc: aditya.rastogi@ukbonn.de), mentioning the role you want to apply for along with your CV and a short cover letter (~ 1 page, about yourself (not included in CV) and your research interest).
