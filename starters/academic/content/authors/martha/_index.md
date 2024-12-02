@@ -49,7 +49,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://de.linkedin.com/in/martha-foltyn-dumitru-368b3333a
-- icon: researchgate
+  - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Martha-Foltyn-Dumitru
   
