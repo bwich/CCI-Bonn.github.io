@@ -27,21 +27,20 @@ organizations:
 bio: I am passionate about advancing precision diagnostics and medical imaging through innovative applications of artificial intelligence. My focus lies in improving patient care, fostering interdisciplinary collaboration, and translating research into impactful healthcare solutions.
 
 interests:
-  - Mozart
-  - Haribo
-  - CCI-Bonn
-
+  - Neuro-oncological imaging
+  - Enhancing Radiological Communication with AI
+    
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: University of Bonn
-      year: 2010
-    - course: MEng in Informatics
-      institution: University of Bonn
-      year: 2001
-    - course: BSc in Philosophy
-      institution: University of Bonn
-      year: 1875
+    - course: Master of Science in Medical Data Science
+      institution: RWTH Aachen University
+      year: 2022
+    - course: Doctor of Medicine
+      institution: Goethe-University Frankfurt (Dr.Senckenbergisches Institut für Neuroonkologie)
+      year: 2020
+    - course: State Examination in Medicine
+      institution: Goethe-University Frankfurt
+      year: 2017
 
 social:
   - icon: envelope
