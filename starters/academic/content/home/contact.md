@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: We are always looking for new academic and industry collaboration partners. Get in touch via contact@ccibonn.ai. For available position as Master student, PhD student, PostDoc or software developer see details above. 
 
 content:
   # Automatically link email and phone or display as text?
