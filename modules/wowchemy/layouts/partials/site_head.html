@@ -65,6 +65,7 @@
     {{- $stylesheets = $stylesheets | resources.PostProcess -}}
   {{- end -}}
   <link rel="stylesheet" href="{{$stylesheets.RelPermalink}}" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/static/css/academicons.min.css">
 
   {{ $scr.Set "vendor_css_filename" "main.min.css" }}
   {{ $scr.Set "vendor_js_filename" "main.min.js" }}
