@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Else-Kröner CS Professor for AI in Medical Imaging at University Bonn"
+role: "Else-Kröner CS Professor for AI in Medical Imaging at University of Bonn / Secondary Affiliations: ZMDT@Uni-Bonn, MIC@DKFZ Heidelberg"
 
 # Organizations/Affiliations
 organizations:
