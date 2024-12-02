@@ -28,15 +28,15 @@ bio: Live longer tha
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: Else-Kröner CS Professor for AI in Medical Imaging
       institution: University of Bonn
-      year: 2010
-    - course: MEng in Informatics
-      institution: University of Bonn
-      year: 2001
-    - course: BSc in Philosophy
-      institution: University of Bonn
-      year: 1875
+      year: 2024
+    - course: MBA
+      institution: IE Business School
+      year: 2018
+    - course: MD
+      institution: University of Cologne
+      year: 2013
 
 social:
   - icon: envelope
