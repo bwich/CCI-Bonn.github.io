@@ -32,7 +32,7 @@ interests:
     
 education:
   courses:
-    - course: Master of Science in Medical Data Science
+    - course: M.Sc. in Medical Data Science
       institution: RWTH Aachen University
       year: 2022
     - course: Doctor of Medicine
