@@ -24,7 +24,7 @@ organizations:
     url: 'ccibonn.ai'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Live longer tha
+bio: As an experienced IT leader I am passionate about advancing healthcare through innovative technology and collaborative problem-solving in computational radiology and clinical AI.
 
 interests:
   - AI in healthcare and medical imaging
