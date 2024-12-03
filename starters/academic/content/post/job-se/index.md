@@ -30,6 +30,7 @@ image:
 
 authors:
   - kai
+  - manuel
 
 tags:
   - job-posting
