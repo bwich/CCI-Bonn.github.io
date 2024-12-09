@@ -21,7 +21,7 @@ role: MD - Oncologic Imaging
 # Organizations/Affiliations
 organizations:
   - name: Germany
-    url: ''
+    url: 'https://www.ukbonn.de/neuroradiologie/unser-team/fach-und-assistenzaerzt-innen/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: MD Radiologist, Medical Physicist and Clinical Scientist
@@ -36,25 +36,25 @@ interests:
 education:
   courses:
     - course: MD in Medicine
-      institution: Faculty of Medicine, University of Heidelberg
+      institution: Medical Faculty Mannheim of Heidelberg University, Germany
       year: 2018
     - course: MSc in Medical Physics
-      institution: University of Heidelberg
+      institution: Medical Faculty Mannheim of Heidelberg University, Germany
       year: 2017
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:barbara.Wichtmann@ukbonn.de'
-  - icon: twitter
+    link: 'mailto:Barbara.Wichtmann@ukbonn.de'
+  - icon: linkedin
     icon_pack: fab
-    link: https://x.com/bundesstadtbonn?lang=en
+    link: https://www.linkedin.com/in/barbara-wichtmann/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Tc9Q8fMAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/CCI-Bonn
+    link: https://github.com/bwich
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
