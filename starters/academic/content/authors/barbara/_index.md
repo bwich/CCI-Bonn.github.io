@@ -28,7 +28,10 @@ bio: MD Radiologist, Medical Physicist and Clinical Scientist
 
 interests:
   - Aritifical Intelligence
-  - Medical Imaging
+  - Oncological Imaging
+  - Quantitative MRI
+  - Diffusion MRI
+  - Workflow Efficiency
 
 education:
   courses:
@@ -67,4 +70,4 @@ user_groups:
   - Research team members
 ---
 
-I aspire to work at the forefront of oncologic MRI, and as a radiologist and medical physicist at the research-clinical interface to advocate for an expedited translation of pivotal innovations such as Deep Learning into the clinic. I am committed to a diverse and inclusive radiological society worldwide that takes full advantage of its interdisciplinary talent pool.
+I lead the "Oncological Imaging" research group at the Clinic of Neuroradiology, University Hospital Bonn. As a radiologist with an additional degree in Medical Physics, I am passionate about advancing quantitative magnetic resonance imaging in oncology and enhancing workflow efficiency through artificial intelligence and deep learning. I believe in the power of interdisciplinary collaboration and am committed to driving the rapid translation of transformative technologies like deep learning into medical practice, with the ultimate goal of improving patient care and shaping the future of radiology.
